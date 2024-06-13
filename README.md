@@ -5,10 +5,9 @@
 [![Email](https://img.shields.io/badge/Contact--me-Email-orange.svg)](mailto:frank@ajaxjs.com)
 [![QQ群](https://framework.ajaxjs.com/static/qq.svg)](https://shang.qq.com/wpa/qunwpa?idkey=3877893a4ed3a5f0be01e809e7ac120e346102bd550deb6692239bb42de38e22)
 
-# A Small HTTP Request Component / 轻量级 HTTP 请求组件
-
 教程 https://framework.ajaxjs.com/docs/aj/
-Java Documents: https://dev.ajaxjs.com/docs/javadoc/aj-net/
+
+Java Documents: https://dev.ajaxjs.com/docs/javadoc/aj-json/
 
 # Install
 
@@ -17,10 +16,7 @@ Requires Java 1.8+, Maven Snippets:
 ```xml
 <dependency>
     <groupId>com.ajaxjs</groupId>
-    <artifactId>aj-net</artifactId>
+    <artifactId>aj-json</artifactId>
     <version>xxx.xxx</version>
 </dependency>
 ```
-
-教程 https://blog.csdn.net/zhangxin09/article/details/106324339
-
