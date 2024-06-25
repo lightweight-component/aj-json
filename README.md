@@ -5,6 +5,8 @@
 
 # Small JSON parser & serializer 小型 JSON 解释器
 
+小型 JSON 解析器，实现 JSON 与 Map/List 互换，是了解 JSON 解析的好例子。
+
 Tutorial: https://framework.ajaxjs.com/docs/aj/.
 
 Java Documents: https://dev.ajaxjs.com/docs/javadoc/aj-json/.
