@@ -18,7 +18,7 @@ Requires Java 1.8+, Maven Snippets:
 <dependency>
     <groupId>com.ajaxjs</groupId>
     <artifactId>aj-json</artifactId>
-    <version>xxx.xxx</version>
+    <version>1.3</version>
 </dependency>
 ```
 
