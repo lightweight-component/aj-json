@@ -10,7 +10,18 @@
     </parent>
 
     <artifactId>aj-json</artifactId>
-    <version>1.3</version>
+    <version>1.4</version>
     <description>轻量级的 JSON 反序列化</description>
     <packaging>jar</packaging>
+
+    <url>https://framework.ajaxjs.com/docs/aj/?section=json</url>
+    <scm>
+        <url>https://github.com/lightweight-component/aj-json</url>
+        <connection>scm:git:https://github.com/lightweight-component/aj-json.git</connection>
+    </scm>
+
+    <issueManagement>
+        <system>GitHub Issues</system>
+        <url>https://github.com/lightweight-component/aj-json/issues</url>
+    </issueManagement>
 </project>
