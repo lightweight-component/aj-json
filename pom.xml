@@ -11,7 +11,7 @@
 
     <artifactId>aj-json</artifactId>
     <version>1.4</version>
-    <description>轻量级的 JSON 反序列化</description>
+    <description>Small JSON parser and serializer</description>
     <packaging>jar</packaging>
 
     <url>https://framework.ajaxjs.com/docs/aj/?section=json</url>

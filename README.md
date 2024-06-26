@@ -54,7 +54,6 @@ json = ConvertToJson.toJson(map);
 assertEquals("{\"name\":\"John\",\"age\":30}", json);   
 
 // List to JSON
-
 List list = new ArrayList();
 list.add(1);
 list.add(2);
