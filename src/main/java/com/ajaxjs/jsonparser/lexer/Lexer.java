@@ -48,6 +48,7 @@ public class Lexer extends BaseLexer {
      * 当前字符游标
      */
     private int cur = -1;
+
     /**
      * 保存当前要解析的字符串
      */
